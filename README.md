@@ -2,22 +2,8 @@
 Senior Consultant 🔭| SAP S/4HANA MM 🏢 🔄 | AI / Machine Learning / Big Data Specialist 🤖 📊 | Experienced Technical Team Lead 🖥️| Certified ScrumMaster® 🚀| Masters in Computer Applications 👨‍💻| Master of Business Administration 📉
 
 ## 🌟 About Me  
-With 16 years of experience as a Senior Consultant, I possess a proven track record of successfully delivering a range of intricate bespoke software solutions. My expertise includes constructing high-performance, scalable applications and implementing enterprise-level systems across various sectors, prioritizing user functionality and satisfaction. Additionally, I possess extensive knowledge in designing and developing both large and small-scale web application services.
-
-Areas of focus: 
-- Big Data, AI & Machine Learning
-- SAP S/4HANA MM (Materials Management) Implementation
-- Product Development
-- Project Management 
-- Team Lead and Management 
-- Full-Stack Developer
-- Networking 
-- Socializing
-- Education
-- Service Delivery
-- Start-up
-  
-- 🔭 I’m currently working on **amazing projects**  
+With 16 years of experience as a Senior Consultant, I possess a proven track record of successfully delivering a range of intricate bespoke software solutions. My expertise includes constructing high-performance, scalable applications and implementing enterprise-level systems across various sectors, prioritizing user functionality and satisfaction. Additionally, I possess extensive knowledge in designing and developing both large and small-scale web application services.  
+- 🔭 I’m currently working on **ML, Big Data & SAP S/4HANA Implementation Projects**  
 - 🌱 Learning **AI Development, Machine Learning (On AWS, Azure & GCP), Big Data, SAP S/4HANA, Enterprise Application Development, Data Engineering**  
 - 💬 Ask me about **AI/ML,Big Data, SAP S/4HANA MM, Web/Enterpise Application Development & Open Source**  
 - 📫 Reach me at [ideas.to.jp@gmail.com](mailto:ideas.to.jp@gmail.com)  
