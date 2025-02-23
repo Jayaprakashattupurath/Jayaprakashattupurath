@@ -10,12 +10,6 @@ With 16 years of experience as a Senior Consultant, I have a proven track record
 <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40">
 
 ## Skill set
-| Column 1 | Column 2 | Column 3 |
-|----------|----------|----------|
-| Row 1    | Data 1   | Data 2   |
-| Row 2    | Data 3   | Data 4   |
-| Row 3    | Data 5   | Data 6   |
-
 
 | Category        | Skills        |
 |-----------------|---------------|
