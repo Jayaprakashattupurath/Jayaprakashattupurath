@@ -16,7 +16,7 @@ With 16 years of experience as a Senior Consultant, I have a proven track record
 | Row 2    | Data 3   | Data 4   |
 | Row 3    | Data 5   | Data 6   |
 
-<div align="left">
+
 | Category        | Skills        |
 |-----------------|---------------|
 | Languages       | <img src="https://img.shields.io/badge/python-yellow?style=for-the-badge&logo=python"/> |
@@ -25,7 +25,7 @@ With 16 years of experience as a Senior Consultant, I have a proven track record
 | Competitive Coding | <a href="https://www.hackerrank.com/profile/khus_ks06"><img src="https://img.shields.io/badge/HackerRank-black?style=for-the-badge&logo=HackerRank"/> </a> |
 | IDE & Environment | <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> <img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" /> <img src="https://img.shields.io/badge/Anaconda-green?style=for-the-badge&logo=Anaconda" /> <img src="https://img.shields.io/badge/Jupyter%20Notebook-orange?style=for-the-badge&logo=Jupyter%20Notebook" /><img src="https://img.shields.io/badge/Google%20Colab-white?style=for-the-badge&logo=Google%20Colab" /> <img src="https://img.shields.io/badge/Pycharm-black?style=for-the-badge&logo=Pycharm" />|
 | Soft Skills | <a href="https://img.shields.io/badge/Presentation-blue?style=for-the-badge&logo=Presentation"> <img src="https://img.shields.io/badge/StoryTelling-black?style=for-the-badge&logo=StoryTelling" /> <img src="https://img.shields.io/badge/collaborate-yellow?style=for-the-badge&logo=Collaborate" /> <img src="https://img.shields.io/badge/communication%20Skills-black?style=for-the-badge&logo=Communication%20Skills" /><img src="https://img.shields.io/badge/Interpersonal%20Skills-green?style=for-the-badge&logo=Interpersonal%20Skills" />|
-</div>
+
 
 
 ## 📈 GitHub stats
