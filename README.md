@@ -9,7 +9,7 @@ With 16 years of experience as a Senior Consultant, I have a proven track record
 - 📫 Reach me at [ideas.to.jp@gmail.com](mailto:ideas.to.jp@gmail.com)  
 <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40">
 
-# Skill set
+## Skill set
 
 <div align="left">
 | Category        | Skills        |
