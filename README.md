@@ -13,7 +13,7 @@ With 16 years of experience as a Senior Consultant, I have a proven track record
 
 | Category        | Skills        |
 |-----------------|---------------|
-| Languages       | <img src="https://img.shields.io/badge/python-yellow?style=for-the-badge&logo=python"/> |
+| Languages       | <img src="https://img.shields.io/badge/python-yellow?style=for-the-badge&logo=python"/> <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white" /> |
 | Data Science Skills | <img src="https://img.shields.io/badge/Data%20Visualization-blue?style=for-the-badge&logo=Data%20Visualization"/> <img src="https://img.shields.io/badge/Pandas-purple?style=for-the-badge&logo=Pandas"/>  <img src="https://img.shields.io/badge/Numpy-darkblue?style=for-the-badge&logo=Numpy%20"/>  <img src="https://img.shields.io/badge/Seaborn-skyblue?style=for-the-badge&logo=Seaborn"/>  <img src="https://img.shields.io/badge/Matplotlib-yellow?style=for-the-badge&logo=Matplotlib"/>  <img src="https://img.shields.io/badge/POWER%20BI-black?style=for-the-badge&logo=POWER%20BI"/> |
 | Database | <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/> |
 | Competitive Coding | <a href="https://www.hackerrank.com/profile/khus_ks06"><img src="https://img.shields.io/badge/HackerRank-black?style=for-the-badge&logo=HackerRank"/> </a> |
