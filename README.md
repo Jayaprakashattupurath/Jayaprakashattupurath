@@ -9,6 +9,7 @@ With 16 years of experience as a Senior Consultant, I have a proven track record
 - 📫 Reach me at [ideas.to.jp@gmail.com](mailto:ideas.to.jp@gmail.com)  
 
 ## Technologies
+<img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-F37626?style=flat&logo=jupyter&logoColor=white)
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
