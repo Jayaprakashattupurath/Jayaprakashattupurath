@@ -22,7 +22,6 @@ With 16 years of experience as a Senior Consultant, I have a proven track record
 | Other Tools | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![DevOps](https://img.shields.io/badge/-DevOps-CC0000?style=flat&logo=devops&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) |
 
 
-
 ## 📈 GitHub stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Jayaprakashsuseelam&show_icons=true&theme=radical)
 
