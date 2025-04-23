@@ -1,4 +1,4 @@
-# 👩‍💻 Hi, I am Jayaprakash
+# 👩‍💻 Hi, I am Jayaprakash (JP)
 Senior Consultant 🔭 📉| SAP S/4HANA MM 🏢 🔄 | AI / Machine Learning / Big Data Specialist 🤖 📊 | Experienced Technical Team Lead 🖥️| Certified ScrumMaster® 🚀| Master of Technology (MTech) in Computer Science and Engineering with Specialization in Bigdata & Machine Learning 👨‍💻| Masters in Computer Applications (MCA) 👨‍💻| Master of Business Administration (MBA) 👨‍💻 | Bachelor of Science in Statistics 👨‍💻
 
 ## 🌟 About Me  
