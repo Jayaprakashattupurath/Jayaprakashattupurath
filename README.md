@@ -34,5 +34,4 @@ With 16 years of experience as a Senior Consultant, I have a proven track record
 ## 📫 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/jayaprakashsuseelam/)
 
-  
 
