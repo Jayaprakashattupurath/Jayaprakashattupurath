@@ -33,5 +33,3 @@ With 16 years of experience as a Technology Lead, I have a proven track record i
 
 ## 📫 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/jayaprakashsuseelam/)
-
-
