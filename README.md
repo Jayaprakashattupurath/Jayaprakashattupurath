@@ -3,7 +3,7 @@ Tech Savvy 🔭 | AI & ML Solutions Architect 🤖 | Big Data & IoT Specialist �
 Master of Technology (MTech) in Computer Science and Engineering with Specialization in Bigdata & Machine Learning 🎓| 
 Masters in Computer Applications (MCA) 🎓| 
 Master of Business Administration (MBA) 🎓|
-Master of Arts (Sociology) 🎓|
+Master of Arts in Sociology 🎓|
 Bachelor of Science in Statistics 🎓
 
 ## 🌟 About Me  
