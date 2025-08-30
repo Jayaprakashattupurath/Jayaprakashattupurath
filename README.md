@@ -31,7 +31,7 @@ With 17 years of experience as a Technology Lead, I have a proven track record i
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Jayaprakashsuseelam&show_icons=true&theme=radical)
 
 ## 🏆 GitHub Trophies
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Jayaprakashsuseelam&theme=juicyfresh&title=Repositories,Stars,Commits,Followers,PullRequest,MultipleLang&margin-w=20)
+![GitHub Trophy]([https://github-profile-trophy.vercel.app/?username=Jayaprakashsuseelam&theme=juicyfresh&title=Repositories,Stars,Commits,Followers,PullRequest,MultipleLang&margin-w=20](https://github-profile-trophy.screw-hand.vercel.app/?username=Jayaprakashsuseelam&theme=juicyfresh&title=Repositories,Stars,Commits,Followers,PullRequest,MultipleLang&margin-w=20))
 
 ## 🛠 Most used languages
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jayaprakashsuseelam&layout=compact&theme=radical)
