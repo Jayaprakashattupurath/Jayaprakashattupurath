@@ -1,5 +1,6 @@
 # 👩‍💻 Hi, I am Jayaprakash (JP)
-Tech Savvy 🔭 | AI & ML Solutions Architect 🤖 | Big Data & IoT Specialist 🖥️ | SAP S/4HANA MM 🏢 | Scalable System Design 🔄 | Cloud-Native & Enterprise Architecture Expert 📉 | Open source Advocate 📊 | Certified ScrumMaster® 🎓| 
+Tech Savvy 🔭 | AI & ML Solutions Architect 🤖 | Big Data & IoT Specialist 🖥️ | SAP S/4HANA MM 🏢 | Scalable System Design 🔄 | Cloud-Native & Enterprise Architecture Expert 📉 | Open source Advocate 📊 | 
+Certified ScrumMaster® 🎓| 
 Master of Technology (MTech) in Computer Science and Engineering with Specialization in Bigdata & Machine Learning 🎓| 
 Masters in Computer Applications (MCA) 🎓| 
 Master of Business Administration (MBA) 🎓|
