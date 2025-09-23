@@ -6,8 +6,6 @@ With 17 years of experience as a Technology Lead, I have a proven track record i
 
 **Education:**
 
-🎓 Certified ScrumMaster®  
-
 🎓 Master of Technology (MTech) in Computer Science and Engineering with Specialization in Bigdata & Machine Learning  
 
 🎓 Masters in Computer Applications (MCA)  
@@ -16,8 +14,9 @@ With 17 years of experience as a Technology Lead, I have a proven track record i
 
 🎓 Master of Arts in Sociology  
 
-🎓 Bachelor of Science in Statistics  
+🎓 Bachelor of Science in Statistics 
 
+🎓 Certified ScrumMaster®  
 
 - 🔭 I’m currently working on **IoT & Sensor Systems, Large Enterprises Applications, ML, Big Data & SAP S/4HANA Implementation Projects**  
 - 🌱 Learning **AI Development, Machine Learning (On AWS, Azure & GCP), IoT & Sensor Systems, Big Data, SAP S/4HANA, Enterprise Application Development, Data Engineering**  
