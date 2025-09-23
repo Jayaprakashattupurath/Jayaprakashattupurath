@@ -1,14 +1,17 @@
 # 👩‍💻 Hi, I am Jayaprakash (JP)
 Tech Savvy 🔭 | AI & ML Solutions Architect 🤖 | Big Data & IoT Specialist 🖥️ | SAP S/4HANA MM 🏢 | Scalable System Design 🔄 | Cloud-Native & Enterprise Architecture Expert 📉 | Open source Advocate 📊 | 
-Certified ScrumMaster® 🎓| 
-Master of Technology (MTech) in Computer Science and Engineering with Specialization in Bigdata & Machine Learning 🎓| 
-Masters in Computer Applications (MCA) 🎓| 
-Master of Business Administration (MBA) 🎓|
-Master of Arts in Sociology 🎓|
-Bachelor of Science in Statistics 🎓
 
 ## 🌟 About Me  
 With 17 years of experience as a Technology Lead, I have a proven track record in delivering complex, custom software solutions, leveraging expertise in AI Development, Machine Learning (on AWS, Azure, and GCP), Big Data, SAP S/4HANA, Enterprise Application Development, Data Engineering, and Full Stack Development. As an open source enthusiast, I actively contribute to and advocate for open collaboration, aiming to support and grow the developer community through meaningful contributions and mentorship. I specialize in building high-performance, scalable applications and deploying enterprise-level systems across diverse industries, ensuring optimal user functionality and satisfaction. My experience also includes designing and developing web application services for both large and small-scale projects. I am skilled in integrating cutting-edge technologies to drive innovation and efficiency in software solutions. My focus remains on delivering robust, user-centric systems that align with business objectives.
+
+**Education:**
+🎓 Certified ScrumMaster®
+🎓 Master of Technology (MTech) in Computer Science and Engineering with Specialization in Bigdata & Machine Learning 
+🎓 Masters in Computer Applications (MCA)
+🎓 Master of Business Administration (MBA)
+🎓 Master of Arts in Sociology
+🎓 Bachelor of Science in Statistics
+
 - 🔭 I’m currently working on **IoT & Sensor Systems, Large Enterprises Applications, ML, Big Data & SAP S/4HANA Implementation Projects**  
 - 🌱 Learning **AI Development, Machine Learning (On AWS, Azure & GCP), IoT & Sensor Systems, Big Data, SAP S/4HANA, Enterprise Application Development, Data Engineering**  
 - 💬 Ask me about **AI/ML,Big Data, SAP S/4HANA MM, Web/Enterpise Application Development & Open Source**  
