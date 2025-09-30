@@ -18,7 +18,7 @@ With 17 years of experience as a Technology Lead, I have a proven track record i
 
 🎓 Certified ScrumMaster®  
 
-- 🔭 I’m currently working on **IoT & Sensor Systems, Large Enterprises Applications, ML, Big Data & SAP S/4HANA Implementation Projects**  
+- 🔭 I’m currently working on **IoT & Sensor Systems, Large Enterprises Applications, Legacy - Middleware System Development, ML, Big Data & SAP S/4HANA Implementation Projects**  
 - 🌱 Learning **AI Development, Machine Learning (On AWS, Azure & GCP), IoT & Sensor Systems, Big Data, SAP S/4HANA, Enterprise Application Development, Data Engineering**  
 - 💬 Ask me about **AI/ML,Big Data, SAP S/4HANA MM, Web/Enterpise Application Development & Open Source**  
 - 📫 Reach me at [ideas.to.jp@gmail.com](mailto:ideas.to.jp@gmail.com)
