@@ -19,7 +19,7 @@ With 18 years of experience as a Technology Lead, I have a proven track record i
 - 🔭 I’m currently working on **IoT & Sensor Systems, Large Enterprises Applications, Legacy - Middleware System Development, ML, Big Data & SAP S/4HANA Implementation Projects**  
 - 🌱 Learning **AI Development, Machine Learning (On AWS, Azure & GCP), IoT & Sensor Systems, Big Data, SAP S/4HANA, Enterprise Application Development, Data Engineering**  
 - 💬 Ask me about **AI/ML,Big Data, SAP S/4HANA MM, Web/Enterpise Application Development & Open Source**  
-- 📫 Reach me at [ideas.to.jp@gmail.com](mailto:ideas.to.jp@gmail.com)
+- 📫 Reach me at [hello@jayaprakash.ca](mailto:hello@jayaprakash.ca)
 
 ## Skill set &nbsp;&nbsp;<img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40">
 
